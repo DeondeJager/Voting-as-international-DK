@@ -37,6 +37,8 @@ _**Democracy can be a fickle thing and can disappear quickly if we do not active
 - You vote by putting **ONE** cross “X” on each of these ballot papers, **either** next to the party you want to vote for **OR** next to the candidate you want to vote for - **not both!** If you have more than one cross on a ballot paper, your ballot paper will be _invalid_ and your vote will _not be counted_.
 - You can also vote blank – i.e. put the unmarked ballot paper(s) in the ballot box.
 
+:warning: The ballot lists are **very long** (multiple pages), as there are many candidates running for each political party! Prepare yourself mentally and try not to get overwhelmed. Remember which party or candidate you decided to vote for and _calmly_ put a cross next to their name. Good luck and enjoy! 
+
 **NB: If you are not able to vote on 18 November** (e.g. you are travelling outside the country), _you can still vote_ via "Advance Voting". Advance voting is already open and closes on 14 Nov.
 - Advance Voting usually takes place at local libraries and/or community centers.
 - See the following website for general information about “Advance Voting”: https://www.elections.im.dk/advance-voting,
