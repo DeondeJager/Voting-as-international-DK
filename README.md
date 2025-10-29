@@ -9,9 +9,10 @@ If you would like to contribute by adding information or resources, that would b
 1. [Introduction](#introduction)
 2. [Can I vote as an international?](#can-i-vote-as-an-international)
 3. [On Election Day, at the voting station](#on-election-day-at-the-voting-station)
-4. [Podcast episode](#podcast-episode)
-5. [Guide to political parties in Denmark](#guide-to-political-parties-in-denmark)
-6. [General resources for internationals in Denmark](#general-resources-for-internationals-in-denmark)
+4. [What if I am not able to vote on Election Day?](#what-if-i-am-not-able-to-vote-on-election-day)
+5. [Podcast episode](#podcast-episode)
+6. [Guide to political parties in Denmark](#guide-to-political-parties-in-denmark)
+7. [General resources for internationals in Denmark](#general-resources-for-internationals-in-denmark)
 
 ## Introduction
 You have probably noticed the election posters that have gone up all over the city as local candidates and political parties ramp up their advertising before the local and regional elections taking place on the **18th of November 2025**. I really encourage all that are eligible (Danes and internationals) to vote!
@@ -39,9 +40,10 @@ _**Democracy can be a fickle thing and can disappear quickly if we do not active
 
 :warning: The ballot lists are **very long** (multiple pages), as there are many candidates running for each political party! Prepare yourself mentally and try not to get overwhelmed. Remember which party or candidate you decided to vote for and _calmly_ put a cross next to their name. Good luck and enjoy! 
 
-**NB: If you are not able to vote on 18 November** (e.g. you are travelling outside the country), _you can still vote_ via "Advance Voting". Advance voting is already open and closes on 14 Nov.
+## What if I am not able to vote on Election Day?
+**If you are not able to vote on 18 November (e.g. you are travelling outside the country), _you can still vote_ via "Advance Voting".** Advance voting is already open and closes on 14 Nov.
 - Advance Voting usually takes place at local libraries and/or community centers.
-- See the following website for general information about “Advance Voting”: https://www.elections.im.dk/advance-voting,
+- See the following website for general information about “Advance Voting”: https://www.elections.im.dk/advance-voting.
 - Check your local municipality website for Advance Voting locations.
 - Here is a list of locations where you can cast your advanced vote in Copenhagen (in Danish – use Google Translate if needed): [https://www.kk.dk/politik/valg/kommunal-og-regionsraadsvalg-2025/brevstemmesteder](https://www.kk.dk/politik/valg/kommunal-og-regionsraadsvalg-2025/brevstemmesteder)
 - Note: The Danish term for Advance Voting, "brevstemme" (translated as “vote by mail” or “postal voting”) is a misnomer, as you actually vote in person, but just ahead of time.
