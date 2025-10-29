@@ -28,6 +28,8 @@ Sources and more info (in English): https://lifeindenmark.borger.dk/rights/elect
 If you are eligible to vote, you are automatically enrolled on the voting register and you _should_ receive a “poll card” approximately 5 days before Election Day (18 Nov). This will have info on where you should vote. Take this poll card with you to the polling station on Election Day. Take some form of identification just in case (e.g. passport, residence card, driver’s license, other ID) – this is not strictly required, but if there is “doubt about your identity”, then you may be asked to provide proof of your identity.  
 
 If you have not received your poll card, or you have forgotten to bring it to the polling station, you can still vote. Just go to your nearest polling station (e.g. a school) and ask them where you should vote.
+
+_**Democracy can be a fickle thing and can disappear quickly if we do not actively participate and exercise our democratic rights whenever we get the chance. I therefore sincerely hope that everyone who is eligible will decide to vote, either for your own interests and/or on behalf of those internationals who are not eligible to vote themselves, but are living Denmark.**_
  
 ## On Election Day, at the voting station
 - Present yourself at the voting table indicated on your poll card and turn over your poll card to the keeper of the electoral register. You will be requested to give your date of birth and potentially also your name and/or address.
@@ -47,8 +49,6 @@ To hear more about voting in local and regional elections in Denmark (both this 
  
 ## Guide to political parties in Denmark
 Now that you know whether you are eligible to vote or not, you might be wondering which party or candidate you would even vote for?! This is of course a personal choice and up to you to decide, but to help you make that decision as an international, see the following guide (in English) to Denmark’s political parties: https://lwid.dk/denmarks-political-parties-your-essential-guide/
-
-**Democracy can be a fickle thing and can disappear quickly if we do not actively participate and exercise our democratic rights whenever we get the chance. I therefore sincerely hope that everyone who is eligible will decide to vote, either for your own interests and/or on behalf of those internationals who are not eligible to vote themselves, but are living Denmark.**
 
 ## General resources for internationals in Denmark
 - The Last Week In Denmark newsletter and [website](https://lwid.dk/) are a great resource for internationals to stay informed about what is happening in the country, and find out more about life in Denmark.
