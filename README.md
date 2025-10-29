@@ -1,7 +1,7 @@
 # Voting as an international in local and regional elections in Denmark
 This repository serves as a short (non-extensive) guide on the voting process in _local and regional_ elections for internationals in Denmark, and in particular for the elections on **18 November 2025** (Election Day). It is mainly aimed at first-time voters.
 
-_Disclaimer: The information provided below is accurate to the best of my knowledge and is based on information from the websites of official authorities (linked below). That said, if you find any inaccurate information, please let me know by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues)._
+:warning:_Disclaimer: The information provided below is accurate to the best of my knowledge and is based on information from the websites of official authorities (linked below). That said, if you find any inaccurate information, please let me know by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues)._
 
 If you would like to contribute by adding information or resources, that would be great! Please get in touch by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues) or by forking and submitting a pull request.
 
