@@ -12,7 +12,8 @@ If you would like to contribute by adding information or resources, that would b
 4. [What if I am not able to vote on Election Day?](#what-if-i-am-not-able-to-vote-on-election-day)
 5. [Podcast episode](#podcast-episode)
 6. [Guide to political parties in Denmark](#guide-to-political-parties-in-denmark)
-7. [General resources for internationals in Denmark](#general-resources-for-internationals-in-denmark)
+7. [How else can I contribute?](#how-else-can-i-contribute-to-the-democratic-process)
+8. [General resources for internationals in Denmark](#general-resources-for-internationals-in-denmark)
 
 ## Introduction
 You have probably noticed the election posters that have gone up all over the city as local candidates and political parties ramp up their advertising before the local and regional elections taking place on the **18th of November 2025**. I really encourage all that are eligible (Danes and internationals) to vote!
@@ -55,6 +56,10 @@ To hear more about voting in local and regional elections in Denmark (both this 
  
 ## Guide to political parties in Denmark
 Now that you know whether you are eligible to vote or not, you might be wondering which party or candidate you would even vote for?! This is of course a personal choice and up to you to decide, but to help you make that decision as an international, see the following guide (in English) to Denmark’s political parties: https://lwid.dk/denmarks-political-parties-your-essential-guide/
+
+## How else can I contribute to the democratic process?
+- You can volunteer to be an election official ("valgtilforordnet") at a local voting station (same rules apply for eligibility as for voting) and help hand out ballots, assist voters, and count votes! See your local municipality website for details on how to register. You even get paid a nominal fee. Here is the link for Copenhagen: https://www.kk.dk/politik/valg/kommunal-og-regionsraadsvalg-2025/meld-dig-som-valgtilforordnet
+- **Encourage everyone you know to vote**, particularly internationals, because internationals typically have a much lower voter turnout than Danish citizens - let's start changing that!
 
 ## General resources for internationals in Denmark
 - The Last Week In Denmark newsletter and [website](https://lwid.dk/) are a great resource for internationals to stay informed about what is happening in the country, and find out more about life in Denmark.
