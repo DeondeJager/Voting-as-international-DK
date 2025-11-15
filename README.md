@@ -1,5 +1,5 @@
 # Voting as an international in local and regional elections in Denmark ![Alt text](/assets/images/dk_small.png)
-This repository serves as a short (non-extensive) guide on the voting process in _local and regional_ elections for internationals in Denmark, and in particular for the elections on **18 November 2025** (Election Day). It is mainly aimed at first-time voters.
+This page serves as a short (non-exhaustive) guide on the voting process in _local and regional_ elections for internationals in Denmark, and in particular for the elections on **18 November 2025** (Election Day). It is mainly aimed at first-time voters.
 
 :warning:_Disclaimer: The information provided below is accurate to the best of my knowledge and is based on information from the websites of official authorities (linked below). That said, if you find any inaccurate information, please let me know by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues)._
 
@@ -11,7 +11,7 @@ If you would like to contribute by adding information or resources, that would b
 3. [On Election Day, at the voting station](#on-election-day-at-the-voting-station)
 4. [What if I am not able to vote on Election Day?](#what-if-i-am-not-able-to-vote-on-election-day)
 5. [Podcast episode](#podcast-episode)
-6. [Guide to political parties in Denmark](#guide-to-political-parties-in-denmark)
+6. [I don't know the parties or canditates, so how do I know who to vote for?](#i-dont-know-the-parties-and-canditates-so-how-do-i-know-who-to-vote-for)
 7. [How else can I contribute?](#how-else-can-i-contribute-to-the-democratic-process)
 8. [General resources for internationals in Denmark](#general-resources-for-internationals-in-denmark)
 
@@ -54,8 +54,10 @@ Read more here: https://lwid.dk/make-your-voice-count-understanding-how-local-de
 ## Podcast episode
 To hear more about voting in local and regional elections in Denmark (both this specific election in 2025, and in general), listen to the following podcast episode: https://votehomepodcast.buzzsprout.com/2346220/episodes/17868406-can-i-really-vote-in-denmark (also available on whichever platform you use to listen to podcasts - search for "#VOTEHOME").
  
-## Guide to political parties in Denmark
-Now that you know whether you are eligible to vote or not, you might be wondering which party or candidate you would even vote for?! This is of course a personal choice and up to you to decide, but to help you make that decision as an international, see the following guide (in English) to Denmark’s political parties: https://lwid.dk/denmarks-political-parties-your-essential-guide/
+## I don't know the parties and canditates, so how do I know who to vote for?
+Not to worry, since you can vote for either a party or a specific candidate, you can use the resources below to help you decide who aligns best with your own views and values: 
+- [This](https://lwid.dk/denmarks-political-parties-your-essential-guide/) guide from [Last Week in Denmark](https://lwid.dk/) (in English) to the main political parties will help you get an overview of the parties and their broad policy positions, including those affecting internationals.
+- [This](https://www.altinget.dk/kandidattest) "candidate test" from [Altinget](https://www.altinget.dk/) (in Danish) will try to match you to the candidate in your municipality whose policy positions best align with your views, based on your answers to 26 questions where you answer "completely disagree", "mostly disagree", "mostly agree", or "completely agree".
 
 ## How else can I contribute to the democratic process?
 - You can volunteer to be an election official ("valgtilforordnet") at a local voting station (same rules apply for eligibility as for voting) and help hand out ballots, assist voters, and count votes! See your local municipality website for details on how to register. You even get paid a nominal fee. Here is the link for Copenhagen: https://www.kk.dk/politik/valg/kommunal-og-regionsraadsvalg-2025/meld-dig-som-valgtilforordnet
