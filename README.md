@@ -66,4 +66,5 @@ Not to worry, since you can vote for either a party or a specific candidate, you
 ## General resources for internationals in Denmark
 - The Last Week In Denmark newsletter and [website](https://lwid.dk/) are a great resource for internationals to stay informed about what is happening in the country, and find out more about life in Denmark.
 - Another good resource is [Life in Denmark](https://lifeindenmark.borger.dk/), an official website from the Danish government for newcomers to Denmark offering public information and self-service.
+- I recently discovered [DinGeo](https://www.dingeo.dk/) (in Danish), which collates a lot of publicly available information about properties in DK. You put in an address and you get info about the apartment/house and the local area. Great for checking your current residence or if you're looking to move/buy and want info on prospective properties and areas!
 
