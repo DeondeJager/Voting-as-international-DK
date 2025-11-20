@@ -5,6 +5,8 @@ This page serves as a short (non-exhaustive) guide on the voting process in _loc
 
 If you would like to contribute by adding information or resources, that would be great! Please get in touch by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues) or by forking and submitting a pull request.
 
+**Update:** Voting Day is over and the results are in. You can always find the results on [valg.dk](https://valg.dk/) (the official portal for election results), and various news websites like [DR](https://www.dr.dk/) anbd [Altinget](https://www.altinget.dk/) also have dedicated election pages, though I don't know how long these will stay active for after the election.
+
 ## Contents
 1. [Introduction](#introduction)
 2. [Can I vote as an international?](#can-i-vote-as-an-international)
