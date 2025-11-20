@@ -34,6 +34,7 @@ If you have not received your poll card, or you have forgotten to bring it to th
 _**Democracy can be a fickle thing and can disappear quickly if we do not actively participate and exercise our democratic rights whenever we get the chance. I therefore sincerely hope that everyone who is eligible will decide to vote, either for your own interests and/or on behalf of those internationals who are not eligible to vote themselves, but are living Denmark.**_
  
 ## On Election Day, at the voting station
+- In 2025, polling stations were open from 08h00-20h00.
 - Present yourself at the voting table indicated on your poll card and turn over your poll card to the keeper of the electoral register. You will be requested to give your date of birth and potentially also your name and/or address.
 - You will then receive two ballots: one ballot paper for the local election and one ballot paper for the regionalelection.
 - You vote by putting a cross “**X**” on each of these ballot papers, **either** next to the party you want to vote for **OR** next to the candidate you want to vote for - **not both!** If you have more than one cross on a ballot paper, your ballot paper will be _invalid_ and your vote will _not be counted_.
