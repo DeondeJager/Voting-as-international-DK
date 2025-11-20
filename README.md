@@ -1,11 +1,12 @@
 # Voting as an international in local and regional elections in Denmark ![Alt text](/assets/images/dk_small.png)
+**Update:** The elections have been completed and the results are in. You can always find the results on [valg.dk](https://valg.dk/) (the official portal for election results), and various news websites like [DR](https://www.dr.dk/) anbd [Altinget](https://www.altinget.dk/) also have dedicated election pages, though I don't know how long these will stay active for after the election.  
+:warning:This page is no longer being actively maintained, but will remain availabe as an archived repository.
+
 This page serves as a short (non-exhaustive) guide on the voting process in _local and regional_ elections for internationals in Denmark, and in particular for the elections on **18 November 2025** (Election Day). It is mainly aimed at first-time voters.
 
 :warning:_Disclaimer: The information provided below is accurate to the best of my knowledge and is based on information from the websites of official authorities (linked below). That said, if you find any inaccurate information, please let me know by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues)._
 
 If you would like to contribute by adding information or resources, that would be great! Please get in touch by submitting an [Issue](https://github.com/DeondeJager/Voting-as-international-DK/issues) or by forking and submitting a pull request.
-
-**Update:** Voting Day is over and the results are in. You can always find the results on [valg.dk](https://valg.dk/) (the official portal for election results), and various news websites like [DR](https://www.dr.dk/) anbd [Altinget](https://www.altinget.dk/) also have dedicated election pages, though I don't know how long these will stay active for after the election.
 
 ## Contents
 1. [Introduction](#introduction)
